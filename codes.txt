@@ -1,0 +1,37 @@
+k xa yar kta kati ho!
+hero ko entry bhayo hai
+feri changes aayo hai
+
+harauxa kya ho
+
+
+{   codes
+git clone ___link 
+git init (initialize any repo/ directory )
+git add . or git add --a
+git status 
+git log ( sab activity dekhauxa)
+git commit -m "----" (commit garni)
+git diff (same file ma k k changes aako xa dekhauxa before and after adding )
+git diff --staged (paila commit gareko file/folder ra new commit garna ready file ma k diff xa)
+
+git commit -a -m "direct commit"
+git rm jpt--.txt (delete garxa jpt.txt file lai)
+git mv original_file_name rename_garni_name
+git rm --cached file_name (to untrack or unadd any file) uo bhayena 
+rm -rf .git (deletes whole repo)
+
+git log -p (show detail of commit)
+git log -p -2(show detail of commit 2 ota commit matra dekhauxa)
+git log --stat(ahort ma log dekhauxa) 
+git log --pretty=oneline (sab commit 1 line ma explain)
+git log --pretty=short (thoari detail matra)
+git log --pretty=full (ali derai detail dinxa)
+git log --since=2.days (last two days)
+git log --pretty=format:"%h --%an" (yesto fromat ma dekhauxa)
+git commit--amend (commit message change garni ra paila ko hatayera )
+git checkout -- file_name (paila ko data firta lyauna lai)
+git checkout -f (commit paxi change gareko harauxa ra paila commit ko data dinxa)
+git checkout -b _____ (new branch banayaera switch garni)
+git merge branch_name(merge garn alai)
+}
