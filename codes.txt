@@ -44,6 +44,7 @@ git remote add origin _link_of_github_rePo_ (to add new repo for remote)
 git remote -v (show the links of repo used for pull and push)
 git remote remove origin(remove the remote repository named "origin" from your local repository configuration)
 git push origin master(push to repo)
+git push -u origin main(master)(first time push to repogit st)
 git push origin present_name:new_nam(branch name change bhayera new branch organize but github ma matra dekhauxa.... aarko name bata organized branch)
 git push -d origin branch_name (branch delete garxa but paila merge gar banxa alert le)
 }
