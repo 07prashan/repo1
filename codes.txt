@@ -39,8 +39,7 @@ git checkout master (master branch ma janxa)
 git branch --merged (merge gareko branch dekahauxa )
 git branch --no-merged (unmerged dekhauxa)
 git branch -d branch_name( to delete a branch warning aauxa)
-git branch -d branch_name (without warning delete hunxa)
-
+git branch -D branch_name (without warning delete hun
 git remote add origin _link_of_github_rePo_ (to add new repo for remote)
 git remote -v (show the links of repo used for pull and push)
 git remote remove origin(remove the remote repository named "origin" from your local repository configuration)
