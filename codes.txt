@@ -40,10 +40,13 @@ git branch --merged (merge gareko branch dekahauxa )
 git branch --no-merged (unmerged dekhauxa)
 git branch -d branch_name( to delete a branch warning aauxa)
 git branch -d branch_name (without warning delete hunxa)
+<<<<<<< HEAD
 git remote add origin _link_of_github_rePo_ (to add new repo for remote)
 git remote -v (show the links of repo used for pull and push)
 git remote remove origin(remove the remote repository named "origin" from your local repository configuration)
 git push origin master(push to repo)
 git push origin present_name:new_nam(branch name change bhayera new branch organize but github ma matra dekhauxa.... aarko name bata organized branch)
 git push -d origin branch_name (branch delete garxa but paila merge gar banxa alert le)
+=======
+>>>>>>> ef7cb0224a1460dbadb4dcfdd5f4d8694f459cff
 }
