@@ -47,6 +47,4 @@ git remote remove origin(remove the remote repository named "origin" from your l
 git push origin master(push to repo)
 git push origin present_name:new_nam(branch name change bhayera new branch organize but github ma matra dekhauxa.... aarko name bata organized branch)
 git push -d origin branch_name (branch delete garxa but paila merge gar banxa alert le)
-=======
->>>>>>> ef7cb0224a1460dbadb4dcfdd5f4d8694f459cff
 }
